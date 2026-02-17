@@ -12,6 +12,7 @@ Live Site: https://szymonnowicki1.github.io/Agency-landing-page/
 
 
 🛠 Built With
+
 HTML5
 CSS3 (Flexbox, Media Queries)
 JavaScript (DOM manipulation)
@@ -19,6 +20,7 @@ Google Fonts – Fraunces
 Images & Icons (SVG, JPG, PNG)
 
 📦 How To Run Locally
+
 1.Clone the repository
 2.Open with Live Server
 3.Enjoy 🚀
